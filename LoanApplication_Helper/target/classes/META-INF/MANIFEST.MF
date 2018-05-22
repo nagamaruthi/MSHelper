@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: LoanApplication_Master
+Implementation-Version: 1.0
+Built-By: NA345468
+Implementation-Vendor-Id: com.ms.loan
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/LoanApplication_Master
+Created-By: Maven Integration for Eclipse
+
